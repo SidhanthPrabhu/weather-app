@@ -1,0 +1,36 @@
+.weather-info {
+  background: #fff;
+  border-radius: 9px;
+  padding: 18px 26px 15px 26px;
+  box-shadow: 0 2px 8px #0f172a12;
+  margin-bottom: 20px;
+}
+.weather-main {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.weather-details {
+  margin-top: 4px;
+  font-size: 1.04rem;
+}
+.weather-details b {
+  color: #2563eb;
+}
+.weather-subdetails {
+  margin-top: 18px;
+}
+.weather-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.96rem;
+}
+.weather-table td {
+  padding: 4px 10px 4px 0;
+  vertical-align: top;
+}
+.weather-table tr td:first-child {
+  font-weight: bold;
+  color: #6366f1;
+  width: 180px;
+}

@@ -1,0 +1,29 @@
+.historical {
+  background: #f1f5f9;
+  border-radius: 8px;
+  padding: 14px 22px;
+  box-shadow: 0 1px 6px #0ea5e915;
+  margin-bottom: 22px;
+}
+.historical h3 {
+  margin-top: 0;
+  margin-bottom: 9px;
+}
+.historical ul {
+  padding-left: 12px;
+  margin: 0;
+}
+.historical-row {
+  margin-bottom: 7px;
+  font-size: 1.01rem;
+}
+
+.historical-row {
+  margin-bottom: 15px;
+  font-size: 1.07rem;
+  padding: 7px 0 5px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+.historical-row:last-child {
+  border-bottom: none;
+}
